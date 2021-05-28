@@ -1,7 +1,7 @@
 
 Hi I'm Anowar
 
- 👨🏻‍💻 Developer with more then 5 years experience I 
+ 👨🏻‍💻 Developer with more then 5 years experience 
  
  💡  I like to explore new technologies and develop software solutions
    -✍️  In my free time I Read Book about Entrepreneurship
