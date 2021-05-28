@@ -13,5 +13,5 @@ Hi I'm Anowar
  
  
 
- 
-![Screenshot_1](https://user-images.githubusercontent.com/43091820/120006604-dd45cb00-bffa-11eb-85c3-692b4f23a365.png)
+ ![Screenshot_1](https://user-images.githubusercontent.com/43091820/120006968-40376200-bffb-11eb-884a-e1f41bbc7927.png)
+
