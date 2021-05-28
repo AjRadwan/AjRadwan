@@ -1,4 +1,4 @@
-![Screenshot_2](https://user-images.githubusercontent.com/43091820/120009572-ec7a4800-bffd-11eb-8473-54ce3734d7fe.png)
+ 
 
 Hi I'm Anowar
 
