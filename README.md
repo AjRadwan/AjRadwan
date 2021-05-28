@@ -1,10 +1,9 @@
 
-HI I'm Anowar
+Hi I'm Anowar
 
  👨🏻‍💻 Developer with more then 5 years experience I 
  
  💡  I like to explore new technologies and develop software solutions
- 
    -✍️  In my free time I Read Book about Entrepreneurship
    - 🔭 I’m currently working on Youtube
    - ⚡ Fun fact: I love to Travel and Workout 
