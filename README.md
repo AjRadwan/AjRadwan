@@ -1,16 +1,16 @@
-### Hi there 👋
+HI I'm Anowar
 
-<!--
-**AjRadwan/AjRadwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 👨🏻‍💻 Developer with more then 5 years experience I 
+ 
+ 💡  I like to explore new technologies and develop software solutions
+ 
+   -✍️  In my free time I Read Book about Entrepreneurship
+   - 🔭 I’m currently working on Youtube
+   - ⚡ Fun fact: I love to Travel and Workout 
+   - 📫 How to reach me: anowarjr1@gmail.com
+ 
+ 
+ 
+ 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
