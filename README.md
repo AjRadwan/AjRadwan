@@ -1,3 +1,4 @@
+![Screenshot_2](https://user-images.githubusercontent.com/43091820/120009572-ec7a4800-bffd-11eb-8473-54ce3734d7fe.png)
 
 Hi I'm Anowar
 
@@ -13,7 +14,7 @@ Hi I'm Anowar
  
  
  
+ 
 
- ![Screenshot_1](https://user-images.githubusercontent.com/43091820/120009465-cce31f80-bffd-11eb-9999-98b035604a8c.png)
 
-
+![Screenshot_2](https://user-images.githubusercontent.com/43091820/120009588-f1d79280-bffd-11eb-9f30-68628dc45fb3.png)
