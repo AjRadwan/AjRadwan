@@ -6,10 +6,10 @@ Hi I'm Anowar
  
  💡  I like to explore new technologies and develop software solutions
  
-   -✍️  In my free time I Read Book about Entrepreneurship
-   - 🔭 I’m currently working on Youtube
+   -✍️  In my free time I Read Book about Entrepreneurship and make video to teach people how to code on youtube
    - ⚡ Fun fact: I love to Travel and Workout 
    - 📫 How to reach me: anowarjr1@gmail.com
+   - 
  
  
  
