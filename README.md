@@ -2,7 +2,7 @@
 
 Hi I'm Anowar
 
- 👨🏻‍💻 Developer with more than 4 years of  coding experience
+ 👨🏻‍💻 Developer with more than 3 years of  coding experience
  
  💡  I like to explore new technologies and develop software solutions
  
