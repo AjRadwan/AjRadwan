@@ -17,6 +17,7 @@
 <p align="left"> 
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
    <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png"/>
+   <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
    <img src="https://img.icons8.com/external-prettycons-lineal-color-prettycons/49/000000/external-php-web-and-seo-prettycons-lineal-color-prettycons.png"/>
    <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
