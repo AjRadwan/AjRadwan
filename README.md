@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 📫 How to reach me **anowarjr1@gmail.com**
+## - 📫 How to reach me **anowarjr1@gmail.com**
 
 - ⚡ Fun fact **Love to travel reading books and Passionate about web technologies**
 
