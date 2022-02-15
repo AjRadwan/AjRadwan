@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **my youtube and other OpenSource Projects**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **DSA**
 
 ## - 📫 How to reach me **anowarjr1@gmail.com**
 
