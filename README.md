@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **my youtube and other OpenSource Projects**
 
-- ###  My Portfolio Link [Click Here](https://ajradwan.github.io/)
+- ###  My Portfolio  [Click Here](https://ajradwan.github.io/)
 
 - 🌱 I’m currently learning **DSA**
 
