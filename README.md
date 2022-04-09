@@ -4,16 +4,12 @@
 
 ## 🙋‍ About Me
 
-- 🔭 I’m currently working on **my youtube and other OpenSource Projects**
 
 - ###  My Portfolio  [Click Here](https://ajradwan.github.io/)
 
 - 🌱 I’m currently learning **DSA**
 
-
  - 📫 How to reach me **anowarjr1@gmail.com**
-
-- ⚡ Fun fact **Love to travel reading books and Passionate about web technologies**
 
 
 ## 🚀 Languages and Tools I am Familiar with:
