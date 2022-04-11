@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Radwan</h1>
 
-## 🙋‍ About Me
+## 🙋‍ Hello World!
 
 
 - ###  My Portfolio  [Click Here](https://ajradwan.github.io/)
@@ -12,7 +12,7 @@
  - 📫 How to reach me **anowarjr1@gmail.com**
 
 
-## 🚀 Languages and Tools I am Familiar with:
+### 🚀 Languages and Tools I am Familiar with:
 
 <p align="left"> 
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
