@@ -24,7 +24,6 @@
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-   <a href="https://jquery.com/" target="_blank"><img src="https://img.icons8.com/ios/50/000000/jquery.png"/></a> 
    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
  
