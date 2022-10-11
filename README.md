@@ -7,7 +7,7 @@
 
 - ###  My Portfolio  [Click Here](https://ajradwan.github.io/)
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Digital Marketing -- google ads specialist **
 
  - 📫 How to reach me **anowarjr1@gmail.com**
 
